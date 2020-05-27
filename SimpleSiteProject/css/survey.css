@@ -1,0 +1,26 @@
+#surveyContainer{
+    background-color: rgba(39, 31, 64, 0.8);
+    padding: 5%;
+    width: 40%;
+    margin-top: 2%;
+    margin-right: 25%;
+    margin-left: 25%;
+    border-radius: 25px;
+}
+
+#titleContainer{
+  text-align: center;
+  margin-top: 100px;
+}
+
+#surveyTitle{
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#surveyComment{
+  font-style: italic;
+}

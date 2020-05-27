@@ -20,7 +20,7 @@ span {
 
 
 .logo{
-  height: 70px;
+  height: 100%;
   width: 70px;
   float: left;
 }
@@ -48,7 +48,6 @@ span {
   height: 30px;
   margin-bottom: 5px
 }
-
 
 .example_b {
 text-align: center;
